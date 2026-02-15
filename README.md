@@ -20,6 +20,17 @@
 * **🖥️ Local Dashboard:** Easy-to-use Streamlit interface to control topic and duration.
 
 ---
+## Project Structure
+
+TubeAutomator/
+├── app.py              # Main Streamlit Dashboard UI
+├── google_brain.py     # AI Logic (Gemini), Audio (gTTS), Pexels Downloader
+├── studio.py           # Video Editing & Subtitle Generation (MoviePy + Pillow)
+├── uploader.py         # YouTube Data API Upload Logic
+├── requirements.txt    # Python dependencies
+├── .env                # API Keys (Hidden from Git)
+├── client_secret.json  # Google OAuth Credentials (Hidden from Git)
+└── output/             # Generated assets (MP3s, MP4s)
 
 ## 🛠️ Installation
 
@@ -27,3 +38,4 @@
 ```bash
 git clone [https://github.com/YOUR_USERNAME/TubeAutomator.git](https://github.com/YOUR_USERNAME/TubeAutomator.git)
 cd TubeAutomator
+
