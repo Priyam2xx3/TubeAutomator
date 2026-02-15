@@ -1,0 +1,154 @@
+=== Google Gemini Models Available to Your API Key ===
+
+Model Name: models/gemini-2.5-flash
+Description: Stable version of Gemini 2.5 Flash, our mid-size multimodal model that supports up to 1 million tokens, released in June of 2025.
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-2.5-pro
+Description: Stable release (June 17th, 2025) of Gemini 2.5 Pro
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-2.0-flash
+Description: Gemini 2.0 Flash
+Input Token Limit: 1048576
+Output Token Limit: 8192
+----------------------------------------
+Model Name: models/gemini-2.0-flash-001
+Description: Stable version of Gemini 2.0 Flash, our fast and versatile multimodal model for scaling across diverse tasks, released in January of 2025.
+Input Token Limit: 1048576
+Output Token Limit: 8192
+----------------------------------------
+Model Name: models/gemini-2.0-flash-exp-image-generation
+Description: Gemini 2.0 Flash (Image Generation) Experimental
+Input Token Limit: 1048576
+Output Token Limit: 8192
+----------------------------------------
+Model Name: models/gemini-2.0-flash-lite-001
+Description: Stable version of Gemini 2.0 Flash-Lite
+Input Token Limit: 1048576
+Output Token Limit: 8192
+----------------------------------------
+Model Name: models/gemini-2.0-flash-lite
+Description: Gemini 2.0 Flash-Lite
+Input Token Limit: 1048576
+Output Token Limit: 8192
+----------------------------------------
+Model Name: models/gemini-exp-1206
+Description: Experimental release (March 25th, 2025) of Gemini 2.5 Pro
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-2.5-flash-preview-tts
+Description: Gemini 2.5 Flash Preview TTS
+Input Token Limit: 8192
+Output Token Limit: 16384
+----------------------------------------
+Model Name: models/gemini-2.5-pro-preview-tts
+Description: Gemini 2.5 Pro Preview TTS
+Input Token Limit: 8192
+Output Token Limit: 16384
+----------------------------------------
+Model Name: models/gemma-3-1b-it
+Description: 
+Input Token Limit: 32768
+Output Token Limit: 8192
+----------------------------------------
+Model Name: models/gemma-3-4b-it
+Description: 
+Input Token Limit: 32768
+Output Token Limit: 8192
+----------------------------------------
+Model Name: models/gemma-3-12b-it
+Description: 
+Input Token Limit: 32768
+Output Token Limit: 8192
+----------------------------------------
+Model Name: models/gemma-3-27b-it
+Description: 
+Input Token Limit: 131072
+Output Token Limit: 8192
+----------------------------------------
+Model Name: models/gemma-3n-e4b-it
+Description: 
+Input Token Limit: 8192
+Output Token Limit: 2048
+----------------------------------------
+Model Name: models/gemma-3n-e2b-it
+Description: 
+Input Token Limit: 8192
+Output Token Limit: 2048
+----------------------------------------
+Model Name: models/gemini-flash-latest
+Description: Latest release of Gemini Flash
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-flash-lite-latest
+Description: Latest release of Gemini Flash-Lite
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-pro-latest
+Description: Latest release of Gemini Pro
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-2.5-flash-lite
+Description: Stable version of Gemini 2.5 Flash-Lite, released in July of 2025
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-2.5-flash-image
+Description: Gemini 2.5 Flash Preview Image
+Input Token Limit: 32768
+Output Token Limit: 32768
+----------------------------------------
+Model Name: models/gemini-2.5-flash-preview-09-2025
+Description: Gemini 2.5 Flash Preview Sep 2025
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-2.5-flash-lite-preview-09-2025
+Description: Preview release (Septempber 25th, 2025) of Gemini 2.5 Flash-Lite
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-3-pro-preview
+Description: Gemini 3 Pro Preview
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-3-flash-preview
+Description: Gemini 3 Flash Preview
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-3-pro-image-preview
+Description: Gemini 3 Pro Image Preview
+Input Token Limit: 131072
+Output Token Limit: 32768
+----------------------------------------
+Model Name: models/nano-banana-pro-preview
+Description: Gemini 3 Pro Image Preview
+Input Token Limit: 131072
+Output Token Limit: 32768
+----------------------------------------
+Model Name: models/gemini-robotics-er-1.5-preview
+Description: Gemini Robotics-ER 1.5 Preview
+Input Token Limit: 1048576
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/gemini-2.5-computer-use-preview-10-2025
+Description: Gemini 2.5 Computer Use Preview 10-2025
+Input Token Limit: 131072
+Output Token Limit: 65536
+----------------------------------------
+Model Name: models/deep-research-pro-preview-12-2025
+Description: Preview release (December 12th, 2025) of Deep Research Pro
+Input Token Limit: 131072
+Output Token Limit: 65536
+----------------------------------------
+
+Total Models Found: 30
