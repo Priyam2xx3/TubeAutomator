@@ -20,18 +20,26 @@
 * **🖥️ Local Dashboard:** Easy-to-use Streamlit interface to control topic and duration.
 
 ---
-## Project Structure
+## 📂 Project Structure
 
+The project is organized into modular Python scripts to handle AI generation, media processing, and uploading separately.
+
+```text
 TubeAutomator/
-├── app.py              # Main Streamlit Dashboard UI
-├── google_brain.py     # AI Logic (Gemini), Audio (gTTS), Pexels Downloader
-├── studio.py           # Video Editing & Subtitle Generation (MoviePy + Pillow)
-├── uploader.py         # YouTube Data API Upload Logic
-├── requirements.txt    # Python dependencies
-├── .env                # API Keys (Hidden from Git)
-├── client_secret.json  # Google OAuth Credentials (Hidden from Git)
-└── output/             # Generated assets (MP3s, MP4s)
-
+│
+├── app.py                  # 🚀 Main Streamlit Application (The User Interface)
+├── google_brain.py         # 🧠 AI Logic: Handles Gemini API (Scripts), gTTS (Audio), & Pexels (Video Fetching)
+├── studio.py               # 🎬 Video Editor: Uses MoviePy & Pillow to stitch video, audio, and subtitles
+├── uploader.py             # ☁️ YouTube Uploader: Handles authentication and video uploading via YouTube Data API
+│
+├── requirements.txt        # 📦 Dependencies: List of all Python libraries required to run the app
+├── .gitignore              # 🛡️ Security: Tells Git to ignore sensitive files (API keys, videos)
+│
+├── .env                    # 🔑 Secrets (Local Only): Stores GEMINI_API_KEY and PEXELS_API_KEY
+├── client_secret.json      # 🔑 Secrets (Local Only): Google OAuth 2.0 credentials for YouTube API
+├── token.json              # 🔑 Secrets (Auto-generated): Stores your personal YouTube login session
+│
+└── output/                 # 📂 Output Folder: Stores generated MP3s, MP4s, and final videos (Ignored by Git)
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
